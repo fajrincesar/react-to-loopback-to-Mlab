@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mlab": {
+    "host": "ds231739.mlab.com",
+    "port": 31739,
+    "url": "mongodb://rinchan:121412@ds231739.mlab.com:31739/dbs",
+    "database": "dbs",
+    "password": "121412",
+    "name": "mlab",
+    "user": "rinchan",
+    "connector": "mongodb"
+  }
+}
